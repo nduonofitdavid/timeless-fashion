@@ -11,7 +11,7 @@ const Contact = () => {
     return (
         <div className="league-spartan px-10 mt-10">
             <div className="flex justify-center">
-                <div className="bg-cover bg-center bg-no-repeat w-full rounded-t-xl" style={{backgroundImage: `url(../../public/contact.png)`, height: '606px',}}></div>
+                <div className="bg-cover bg-center bg-no-repeat w-full rounded-t-xl" style={{backgroundImage: `url(/contact.png)`, height: '606px',}}></div>
             </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
