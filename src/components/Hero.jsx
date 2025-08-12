@@ -12,8 +12,8 @@ const Hero = () => {
       title: "Timeless Fashion,",
       subtitle: "Conscious Choices",
       description: "Sustainably designed effortlessly worn. Our pieces are made with premium materials and wardrobe that stands the test of time.",
-      image: "../../public/images/hero-main.png",
-      bgImage: "../../public/images/hero-main.png",
+      image: "/images/hero-main.png",
+      bgImage: "/images/hero-main.png",
     },
     {
       id: 2,
@@ -22,7 +22,7 @@ const Hero = () => {
       description:
         "Discover our latest collection of contemporary African fashion that blends tradition with innovation",
       image: "/placeholder.svg?height=600&width=500&text=Fashion+Model+2",
-      bgImage: "../../public/images/hero-main.png",
+      bgImage: "/images/hero-main.png",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const Hero = () => {
       description:
         "Each piece is carefully crafted by skilled artisans using premium materials and traditional techniques",
       image: "/placeholder.svg?height=600&width=500&text=Fashion+Model+3",
-      bgImage: "../../public/images/hero-main.png",
+      bgImage: "/images/hero-main.png",
     },
   ]
 
